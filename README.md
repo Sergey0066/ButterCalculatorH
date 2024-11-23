@@ -35,5 +35,5 @@
 - **Создатель ресурса:**
   Discord: sergey0066
   
-  Для скачивания программы [нажмите сюда](https://github.com/Sergey0066/KIttyMems/releases/tag/KittyMemsExe)
+  Для скачивания программы [нажмите сюда](https://github.com/Sergey0066/ButterCalculatorH/releases/tag/ButterCalculatorH)
 
